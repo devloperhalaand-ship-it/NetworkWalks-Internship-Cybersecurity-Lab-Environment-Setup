@@ -1,0 +1,2 @@
+# NetworkWalks-Internship-Cybersecurity-Lab-Environment-Setup
+A virtual cybersecurity lab built with VirtualBox and Kali Linux to practice network scanning, reconnaissance, vulnerability assessment, and penetration testing in a controlled environment. The project uses a private virtual network and supports future integration of vulnerable machines for authorized security testing and hands-on learning.
